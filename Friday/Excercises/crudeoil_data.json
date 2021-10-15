@@ -1,0 +1,25 @@
+{
+    "oil_types":[
+        "heavy",
+        "medium",
+        "light"
+    ],
+    "processes":[
+        0,
+        1
+    ],
+    "production":{
+        "heavy":[2,1],
+        "medium":[2,2],
+        "light":[1,4]
+    },
+    "demand":{
+        "heavy":3,
+        "medium":5,
+        "light":4
+    },
+    "process_cost":[
+        3,
+        5
+    ]
+}
